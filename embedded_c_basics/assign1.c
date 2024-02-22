@@ -13,6 +13,6 @@ int main(){
         return 0;
     }
     max_num = (num1 > num2)? num1 : num2;
-    printf("The maximum number is : %d",max_num);
+    printf("The larger number is : %d",max_num);
     return 0;
 }
