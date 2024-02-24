@@ -19,4 +19,5 @@ int main()
         sum += arr[i];
     }
     printf("Sum is %d and average is %f", sum, (float)sum / 7);
+    return 0;
 }
