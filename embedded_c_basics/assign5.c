@@ -26,4 +26,5 @@ int main()
         rev_num = (rev_num * 10 + new_num[i]);
     }
     printf("%d", rev_num);
+    return 0;
 }
