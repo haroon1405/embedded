@@ -1,4 +1,4 @@
-// Write a Function to find sum of 2 numbers.
+// Write a function to find sum of 2 numbers.
 
 #include <stdio.h>
 
