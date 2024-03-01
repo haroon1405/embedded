@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int sum(int a, int b);
+int sum(int a,int b);
 
 int main(){
     int num1=0,num2=0,result=0;
@@ -14,6 +14,6 @@ int main(){
     printf("The sum is %d",result);
 }
 
-int sum(int a, int b){
+int sum(int a,int b){
     return a+b;
 }
